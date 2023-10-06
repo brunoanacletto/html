@@ -1,0 +1,442 @@
+body{
+
+    background-color: rgb(241, 243, 235);
+
+    margin: 0;
+
+    padding: 0;
+
+    
+
+}
+
+ 
+
+.pesquisa{
+
+    box-shadow: 10px 1px 3px white;
+
+    margin-top: -16px;
+
+    width: 100%;
+
+    background: black;
+
+    height: 80px;
+
+}
+
+ 
+
+header div{
+
+    color: black;
+
+    margin-left: 100px;
+
+}
+
+ 
+
+.logo{
+
+    float: left;
+
+    margin-top: 5px;
+
+}
+
+ 
+
+ 
+
+.menu a{
+
+    padding: 25px;
+
+    text-decoration: none;
+
+    display: inline-block;
+
+    color: white;
+
+    font-size: 18px;
+
+}
+
+ 
+
+.login{
+
+    margin-right:30px;
+
+    float: right;
+
+    text-decoration: none;
+
+    color: white;
+
+    margin-top: 25px;
+
+    font-size: 18px;
+
+    
+
+}
+
+ 
+
+.pes {
+
+    margin-right: 250px;
+
+    float: right;
+
+    margin-top: -60px;
+
+    height: 20px;
+
+    border-radius: 10px ;
+
+    border-bottom: 2px solid;
+
+    border-right: 2px solid;
+
+}
+
+ 
+
+.foto img{
+
+    margin-top: -17px;
+
+    width:2000px;
+
+    height:850px;
+
+ 
+
+}
+
+ 
+
+ 
+
+img {
+
+    max-width: 100%;
+
+ 
+
+}
+
+ 
+
+.preto h2{
+
+    margin-top: -11px;
+
+    height: 100px;
+
+    background: #000;
+
+}
+
+ 
+
+.texto {    
+
+    position: absolute;
+
+    top: 400px;
+
+    left: 500px;
+
+    transform: translate(-50%, -50%);
+
+    color: white; 
+
+    padding: 10px;
+
+    font-size: 70px;
+
+    justify-content: en;
+
+}
+
+.conteudo h2{
+
+    font-size: 45px;
+
+    margin-left: 450px;
+
+}
+
+ 
+
+.conteudo p{
+
+    font-size: 20px;
+
+    font-weight: bold;
+
+    
+
+}
+
+ 
+
+.conteudo{
+
+    width: 1495px;
+
+    background-color: white;
+
+    color: black;
+
+    padding: 10px 20px;
+
+    border: none;
+
+    border-radius: 6px;
+
+    margin-top: 100px;
+
+    margin-left: 160px;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.botao{
+    display: flex;
+    justify-content: center;
+}
+
+.onteudo h2{
+
+    
+
+    font-size: 45px;
+
+    color: black;
+
+    padding: 10px 20px;
+
+    margin-top: 100px;
+
+    margin-left: 590px;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+ 
+
+.conteudo button{
+
+    margin-left: 680px;
+
+    font-size: 15px;
+
+    color: white;
+
+    background-color: #034159;
+
+    border-radius: 10px;
+
+    width: 100px;
+
+    height: 30px;
+
+}
+
+ 
+
+.borde{
+
+width: 400px;
+
+height: 300px;
+
+border-radius: 20px;
+
+background-color: white; 
+
+text-align: center; 
+
+display: inline-block;
+
+justify-content: center;
+
+margin: 20px;
+
+overflow: hidden;
+
+margin-left: 150px;
+
+}
+
+ 
+
+.borde p{
+
+font-family: Arial, Helvetica, sans-serif;
+
+font-size: 20px;
+
+text-align: justify;
+
+padding: 13px;
+
+}
+
+ 
+
+.borde h2{
+
+    color: #254779;
+
+}
+
+ 
+
+.impor h2{
+
+    font-size: 45px;
+
+}
+
+ 
+
+.final{
+
+    margin-top: 200px;
+
+    height: 130px;
+
+    background-color: #254779;
+
+}
+
+ 
+
+.final p{
+
+    padding: 40px;
+
+    color: white;
+
+}
+
+ 
+
+.fotos img{
+
+    height: 35px;
+
+    width: 35px;
+
+    float: right;
+
+    padding: 10px;
+
+    margin-top: 40px;
+
+}
+
+ 
+
+/*minha conta*/
+
+ 
+
+ 
+
+.coment {
+
+    margin-top: 60px;
+
+    width: 800px;
+
+    padding: 10px;
+
+    border: 1px solid #ccc;
+
+    
+
+}
+
+ 
+
+ 
+
+.enviar {
+
+    margin-top: 10px;
+    
+
+    background-color: #007BFF;
+
+    color: #fff;
+
+    border: none;
+
+    padding: 10px 20px;
+
+    border-radius: 5px;
+
+    cursor: pointer;
+
+    text-align: center;
+    
+
+}
+
+ 
+
+.enviar:hover {
+
+    background-color: #0056b3;
+
+    
+
+}
+
+ 
+
+.comentarios{
+
+width: 1550px;
+
+height: 60px;
+
+border-radius: 5px;
+
+background-color: white; 
+
+text-align: center;
+
+margin: 100px;
+
+margin-left: 150px;
+
+overflow: 100px;
+
+word-wrap: break-word;
+
+
+}
+
+ 
+
+.exi {
+
+    margin-top: 50px;
+
+    text-align: left;    
+
+    margin-left: 50px;
+
+}
+
